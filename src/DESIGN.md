@@ -11,11 +11,11 @@ In typical user-interface fashion, `x-ray` is based off the **Model-View-Control
 # Browser view
 *********************************************
 *                     |                     *
-* *div/view plugin-A  |  *div/view plugin-B *
+*  div/view plugin-A  |  div/view plugin-B  *
 *                     |                     *
 *********************************************
 *                     |                     *
-* *div/view plugin-C  |  *div/view plugin-D *
+*  div/view plugin-C  |  div/view plugin-D  *
 *                     |                     *
 *********************************************
 
