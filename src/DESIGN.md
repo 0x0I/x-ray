@@ -1,4 +1,4 @@
-## X-Ray aka QLShell aka Bourne again-again SHell
+## X-Ray
 
 **Overview:** `x-ray` is a user-interface meant to serve as a replacement for modern day terminals (e.g. Linux's *terminal*, Mac's *xterm*, Window's *command prompt*) and the associated command-line interfaces or shell scripts/interpreters currently packaged with them - leveraging the power of the modern web. Sort of like `tmux` re-imagined in a web browser.
 
