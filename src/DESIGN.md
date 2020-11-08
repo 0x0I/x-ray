@@ -4,7 +4,7 @@
 
 In typical user-interface fashion, `x-ray` is based off the **Model-View-Controller or MVC** pattern consisting of the following components:
 * D3.js (view) - displays and adapts interface elements according to a particular user view/query
-* GraphQL (controller) - processes users' data query/modification requests and provides computed data response to view
+* WASM/GraphQL (controller) - processes users' data requests and provides computed data responses using WASM programs and GraphQL endpoints
 * **** (model) - technically should be able to support both NoSQL (e.g. elasticsearch, mongoDB) and SQL (postgres, sql) datastores. The support of (non)nullable types by GraphQL may actually be better suited for NoSQL backends.
 
 ```bash
